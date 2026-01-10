@@ -41,3 +41,10 @@ Actualmente estoy participando en un Bootcamp de programación para potenciar mi
 - Email: eliaspaolo0722@gmail.com
 ---
 ⭐ Este README fue creado como parte del Bootcamp - Tarea 1: Git y GitHub
+## 🌟 Metas para 2025
+
+- ✅ Completar el Bootcamp de programación exitosamente
+- 🎯 Construir mi portafolio profesional
+- 💼 Conseguir mi primer empleo como desarrollador
+- 🚀 Aprender más sobre React y Node.js
+- 🤝 Contribuir a proyectos open source
